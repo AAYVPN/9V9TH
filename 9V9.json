@@ -1,8 +1,8 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"2.16",
+"Version":"2.17",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/AAYVPN/9V9TH/raw/main/update%20.zip" ,
+"Url":"https://github.com/AAYVPN/9V9TH/raw/main/update.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (15/10/2021)
 อัพเดทล่าสุดเอาไว้สำหรับ no โปร
